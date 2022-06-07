@@ -1,6 +1,8 @@
 # Chapter0 HTML&CSS
 ---
 
+きりたんぽ！
+
 とゆーことで、初めていきましょう。
 
 と、いってもまずはJavaScriptではなく、HTMLとCSSの基礎からやります。
